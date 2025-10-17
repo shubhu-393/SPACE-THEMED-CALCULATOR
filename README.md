@@ -69,7 +69,6 @@ Person 1 weight (kg): 56
 Person 2 weight (kg): 59
 
 🪐 Total mass on Jupiter: 290.61 kg
-🚫 Invalid choice. Please select from the menu.
 ## 🌟 Future Plans
 
 - Add a GUI version using tkinter
